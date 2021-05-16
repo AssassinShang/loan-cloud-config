@@ -1,0 +1,1 @@
+url: jdbc:mysql://loan-cloud-config:3306/mybatis?useUnicode=true&characterEncoding=UTF-8
