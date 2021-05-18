@@ -1,1 +1,2 @@
-url: jdbc:mysql://192.168.42.128:3306/mybatis?useUnicode=true&characterEncoding=UTF-8
+datasource:
+  url: jdbc:mysql://192.168.42.128:3306/mybatis?useUnicode=true&characterEncoding=UTF-8
