@@ -1,2 +1,2 @@
 datasource:
-  url: jdbc:mysql://localhost:3306/mybatis?useUnicode=true&characterEncoding=UTF-8&version=8
+  url: jdbc:mysql://localhost:3306/mybatis?useUnicode=true&characterEncoding=UTF-8&version=9
